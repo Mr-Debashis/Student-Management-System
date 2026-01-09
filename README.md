@@ -57,9 +57,10 @@ The system allows managing students, teachers, subjects, and assigning teachers 
 2. Extract the files (if zipped)
 3. Open `index.html` in any modern browser  
    *(Chrome, Edge, Firefox recommended)*
-4. Enter email & password
-   email - debashis@gmail.com
+4. Enter email & password         <br>
+   email - debashis@gmail.com     <br>
    password - d@123
+   
 
 No server or installation required.
 
